@@ -107,6 +107,7 @@ Best way is to simply import all json files into mongoDB to perform local querie
 
 ### Extracted Datasets
 
+> These datasets are valid as of 24 February, 2020 - when the source dataset was fetched from flirt.eha.io.
 1. [Flight schedules](https://drive.google.com/open?id=1EZJpA_x2zXbgEQ86Y3StAI2pOISjaWmm) from coronavirus [affected countries](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) to Vancouver.
 2. [Flight schedules](https://drive.google.com/open?id=18zIs2o6TPMN2XrSNphxZDaqpF_xmcLd4) from coronavirus [affected countries](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) to cities with *high outbound traffic* to Vancouver.
    - Can be used as an intermediary layer between affected countries and Vancouver (Dataset 1).
